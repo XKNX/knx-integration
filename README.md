@@ -1,4 +1,4 @@
-[![HA integration usage](https://img.shields.io/badge/dynamic/json?color=41BDF5&logo=home-assistant&label=integration%20usage&suffix=%20installs&cacheSeconds=15600&url=https://analytics.home-assistant.io/data.json&query=current.integrations.knx)](https://www.home-assistant.io/integrations/knx/)
+[![HA integration usage](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fanalytics.home-assistant.io%2Fcurrent_data.json&query=%24.integrations.knx&logo=home-assistant&label=integration%20usage&color=41BDF5&cacheSeconds=21600)](https://www.home-assistant.io/integrations/knx/)
 [![Discord](https://img.shields.io/discord/338619021215924227?color=7289da&label=Discord&logo=discord&logoColor=7289da)](https://discord.gg/62UcpH3Y92)
 
 # Home Assistant KNX integration
