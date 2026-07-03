@@ -10,4 +10,5 @@ The [integrations unit tests](https://github.com/home-assistant/core/tree/dev/te
 The integration uses following libraries:
 - [`xknx`](https://github.com/XKNX/xknx) the library used for KNX IP connection handling, DPT decoding and providing device abstractions
 - [`knx-frontend`](https://github.com/XKNX/knx-frontend) the Home Assistant KNX panel
+- [`knx-telegram-store`](https://github.com/XKNX/knx-telegram-store) the database connector for telegram history
 - [`xknxproject`](https://github.com/XKNX/xknxproject) the ETS project file parser
